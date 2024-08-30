@@ -10,6 +10,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="ts logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="mysql logo"  />
@@ -24,7 +26,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="ts logo"  />
 </div>
 
 ## My Stats
