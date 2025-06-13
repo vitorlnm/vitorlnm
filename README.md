@@ -4,7 +4,7 @@
 
 ## About Me
 - Student at [@senacrs](https://br.linkedin.com/school/senac-rs/)
-- Logistics Operator [@vertrauen](https://br.linkedin.com/company/vertrauen---perfis-para-esquadrias-em-pvc)
+- IT Deployer [@brinaldi](https://br.linkedin.com/company/brinaldi)
 
 ## My Techs
 <div align="left">
